@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrlucifer443/SOTTO-AI/main/assets/logo.png" alt="Sotto AI Logo" width="220">
+</p>
+
+<h1 align="center">Sotto AI</h1>
+
+<p align="center">
+  <strong>Bangladesh's First Deepfake Detection & AI Image Verification Platform</strong>
+</p>
+
+<p align="center">
+  <a href="https://sottoai.vercel.app">🌐 Website</a>
+</p>
+
+---
+
 # Sotto AI – SOTTO Bangladesh's First Deepfake Detection, AI Image Detector & Media Authenticity Verification Platform
 
 ## Detect AI-Generated Images, Deepfakes, and Manipulated Media in Seconds
