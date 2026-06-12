@@ -130,7 +130,7 @@ Deepfake Detection, AI Image Detector, Fake Image Checker, AI Generated Image De
 
 ## ⚠ Disclaimer
 
-Sotto AI provides AI-assisted authenticity analysis and deepfake detection results. Detection outcomes are probabilistic and should not be considered definitive proof of authenticity or manipulation.
+Sotto is an Ai it can make mistakes.
 
 ---
 
